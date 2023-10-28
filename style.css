@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+    margin-top: 20%;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/R.9cc87693398e876c7c2f726307205e7c?rik=7XrI%2b7C6rWcOlQ&riu=http%3a%2f%2fwww.hdwallpapersfreedownload.com%2fuploads%2flarge%2fnature%2fwallpapers-hd-nature.jpg&ehk=x5O93Nb0yBy%2bfQkdBpBHPe0EFcQxGCUXFhxI8I7b7dY%3d&risl=1&pid=ImgRaw&r=0);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container a{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
